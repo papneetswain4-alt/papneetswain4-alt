@@ -7,9 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/papneetswain4-alt">
-    <img src="https://img.shields.io/badge/Spider--Verse-Active-red?style=for-the-badge&logo=marvel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SPIDER--VERSE-ACTIVE-8b0000?style=for-the-badge&logo=marvel&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
@@ -26,7 +27,6 @@
   <img src="https://skillicons.dev/icons?i=java,c,html,css,js,git,github&theme=dark" />
 </p>
 
----
 
 ## 📊 Spider Stats
 <p>
@@ -37,15 +37,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=papneetswain4-alt&theme=radical" />
 </p>
 
----
+<p align="right">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/spiderman_camera_icon__-removebg-preview.png" width="20%" />
+</p>
 
 ## 🕸️ Web Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=papneetswain4-alt&theme=redical" />
 </p>
-
----
-
-<p align="center">
+<hr>
+<br>
+<br>
+<h3 align="center">
   🕷️<em>Friendly Neighborhood Developer</em> 
-</p>
+</h3>
+<br>
+<br>
