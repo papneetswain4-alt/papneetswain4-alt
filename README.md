@@ -2,7 +2,7 @@
 <h3 align="center">With great code comes great responsibility</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/spiderman-banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SPIDERMAN-removebg-preview.png" width="60%" />
 </p>
 
 <p align="center">
