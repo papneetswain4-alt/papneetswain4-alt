@@ -29,8 +29,8 @@
 ---
 
 ## 📊 Spider Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=papneetswain4-alt&show_icons=true&theme=radical" />
+<p>
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SpiderMan-Swinging.png" width="20%" />
 </p>
 
 <p align="center">
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  🕷️ Friendly Neighborhood Developer  
+  🕷️<em>Friendly Neighborhood Developer</em> 
 </p>
