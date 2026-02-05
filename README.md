@@ -34,7 +34,6 @@
 ## 📊 Spider Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=papneetswain4-alt&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=papneetswain4-alt&theme=radical" height="160"/>
 </p>
 
