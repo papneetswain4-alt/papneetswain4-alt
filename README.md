@@ -2,7 +2,7 @@
 <h3 align="center">With great code comes great responsibility</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SPIDERMAN-removebg-preview.png" width="60%" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SPIDERMAN-removebg-preview.png" width="55%" />
 </p>
 
 <p align="center">
@@ -11,45 +11,74 @@
   </a>
 </p>
 
-
 ---
 
 ## 🕸️ About Me
-- 🧠 Student learning **Java, DSA & Web**
-- 🕷️ Inspired by clean logic & heroic code
-- 🚀 Building projects step by step
-- ⚠️ Debugging like it’s a villain fight
+
+🧠 Student exploring **Java, DSA & Web Development**  
+🕷️ Love writing clean, logical, maintainable code  
+🚀 Currently building real-world projects  
+⚔️ Debugging bugs like boss battles  
+🎯 Goal → Become a strong Full Stack Developer  
 
 ---
 
 ## 🧰 Tech Arsenal
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,html,css,js,git,github&theme=dark" />
 </p>
 
+---
 
 ## 📊 Spider Stats
-<p>
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SpiderMan-Swinging.png" width="20%" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=papneetswain4-alt&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=papneetswain4-alt&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=papneetswain4-alt&theme=radical" height="160"/>
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/spiderman_camera_icon__-removebg-preview.png" width="20%" />
-</p>
+---
 
-## 🕸️ Web Activity
+## 🕸️ Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=papneetswain4-alt&theme=redical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=papneetswain4-alt&theme=redical"/>
 </p>
-<hr>
-<br>
-<br>
-<h3 align="center">
-  🕷️<em>Friendly Neighborhood Developer</em> 
-</h3>
-<br>
-<br>
+
+---
+
+## 🚀 Current Learning Journey
+
+- 📚 Data Structures & Algorithms
+- ☕ Advanced Java Concepts
+- 🌐 Frontend + Backend Integration
+- 🗄️ Database & API Handling
+
+---
+
+## 🕷️ Featured Projects
+
+👉 Restaurant Ordering System  
+👉 Admin Dashboard UI  
+👉 Authentication System  
+
+*(More coming soon...)*
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/papneetswain4-alt">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SpiderMan-Swinging.png" width="18%" />
+</p>
+
+<h3 align="center">🕷️ Friendly Neighborhood Developer</h3>
