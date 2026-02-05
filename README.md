@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SPIDERMAN-removebg-preview.png" width="55%" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/papneetswain4-alt">
     <img src="https://img.shields.io/badge/SPIDER--VERSE-ACTIVE-8b0000?style=for-the-badge&logo=marvel&logoColor=white"/>
   </a>
