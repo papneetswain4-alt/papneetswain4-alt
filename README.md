@@ -69,13 +69,10 @@
 
 ---
 
-## 📫 Connect With Me
+## 🐍 Contribution Snake
 
-<p align="center">
-  <a href="https://github.com/papneetswain4-alt">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+![Snake animation](https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/output/github-contribution-grid-snake.svg)
+
 
 ---
 
