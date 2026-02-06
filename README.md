@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/oNFP9kltPi7fp8TUAV/giphy.gif" width="100%" />
+</p>
+
+
 <h1 align="center">🕷️ Hey, I'm Papneet</h1>
 <h3 align="center">With great code comes great responsibility</h3>
 
