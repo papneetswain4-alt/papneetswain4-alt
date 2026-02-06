@@ -48,6 +48,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=papneetswain4-alt&theme=redical"/>
 </p>
 
+<div align="center">
+  
+**Spider Contribution Web**
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/output/github-contribution-grid-snake-dark.svg" height="865">
+</p>
+
 ---
 
 ## 🚀 Current Learning Journey
@@ -69,12 +79,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/output/github-contribution-grid-snake.svg)
-
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SpiderMan-Swinging.png" width="18%" />
