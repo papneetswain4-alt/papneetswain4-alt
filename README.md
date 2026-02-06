@@ -31,11 +31,13 @@
 
 ---
 
-## 📊 Spider Stats
+## 🕷️ Spider Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=papneetswain4-alt&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=papneetswain4-alt&theme=radical" height="165"/>
 </p>
+
+
 
 ---
 
