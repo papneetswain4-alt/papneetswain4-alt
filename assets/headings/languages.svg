@@ -1,4 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 24" width="220" height="24" fill="none" role="img" aria-label="Languages">
-  <text x="0" y="17" fill="#DC2626" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12px" font-weight="700">&#x25B8;</text>
-  <text x="16" y="17" fill="#FF3131" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5px" font-weight="700" letter-spacing="2px">LANGUAGES</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 22" width="150" height="22" fill="none" role="img" aria-label="Languages">
+  <text x="0" y="16" fill="#FF3131" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5px" font-weight="700" letter-spacing="2px">LANGUAGES</text>
 </svg>

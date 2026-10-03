@@ -22,7 +22,7 @@
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/about.svg" alt="01 // About Me" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/about.svg" alt="About Me" />
 </p>
 
 
@@ -66,7 +66,7 @@ public class Papneet {
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/tech-stack.svg" alt="02 // Tech Stack & Arsenal" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/tech-stack.svg" alt="Tech Stack & Arsenal" />
 </p>
 
 <p align="left">
@@ -100,7 +100,7 @@ public class Papneet {
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/stats.svg" alt="03 // Spider Stats" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/stats.svg" alt="Spider Stats" />
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@ public class Papneet {
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/contributions.svg" alt="04 // The Contribution Web" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/contributions.svg" alt="The Contribution Web" />
 </p>
 
 
