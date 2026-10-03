@@ -1,87 +1,128 @@
-<h1 align="center">🕷️ Hey, I'm Papneet</h1>
-<h3 align="center">With great code comes great responsibility</h3>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SPIDERMAN-removebg-preview.png" width="55%" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/name.svg" alt="PAPNEET SWAIN" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/papneetswain4-alt">
-    <img src="https://img.shields.io/badge/SPIDER--VERSE-ACTIVE-8b0000?style=for-the-badge&logo=marvel&logoColor=white"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/tagline.svg" alt="With Great Code Comes Great Responsibility" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/spidy-banner.jpg" width="100%" alt="Spider-Man Banner" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ON%20THE%20GRIND-0D1117?style=flat-square&labelColor=0D1117&color=DC2626" alt="Status: On The Grind" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/UNIVERSE-SPIDER--VERSE-0D1117?style=flat-square&labelColor=0D1117&color=DC2626" alt="Universe: Spider-Verse" />
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=papneetswain4-alt&color=dc2626&style=flat-square&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
-
-## 🕸️ About Me
-
-🧠 Student exploring **Java, DSA & Web Development**  
-🕷️ Love writing clean, logical, maintainable code  
-🚀 Currently building real-world projects  
-⚔️ Debugging bugs like boss battles  
-🎯 Goal → Become a strong Full Stack Developer  
-
----
-
-## 🧰 Tech Arsenal
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,nodejs,react,express,mongodb,mysql,git,github,vscode,postman,figma&theme=dark" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/about.svg" alt="About Me" />
+</p>
+
+```java
+public class Papneet {
+
+    static String role = "Full Stack Developer in Progress";
+
+    static String[] interests = {
+        "Java",
+        "Data Structures & Algorithms",
+        "Web Development",
+        "Problem Solving"
+    };
+
+    static String currentFocus = "Building real-world projects";
+
+    public static void main(String[] args) {
+        System.out.println(
+            "With great code comes great responsibility."
+        );
+    }
+}
+```
+
+- Computer Science Engineering Student
+- Java enthusiast with a passion for problem-solving
+- Exploring the world of Full Stack Development
+- Building projects that turn ideas into reality
+- Learning, experimenting, breaking things and debugging them
+
+---
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/tech-stack.svg" alt="Tech Stack & Arsenal" />
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/languages.svg" alt="Languages" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,sql&theme=dark" alt="Languages" />
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/development.svg" alt="Development" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,mysql,tailwind&theme=dark" alt="Development" />
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/tools.svg" alt="Tools & Platforms" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,vercel&theme=dark" alt="Tools & Platforms" />
 </p>
 
 ---
 
-## 🕷️ Spider Stats
+<p align="left">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/stats.svg" alt="Spider Stats" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=papneetswain4-alt&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=papneetswain4-alt&show_icons=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF&icon_color=FF3131&border_color=991B1B&hide_border=false" alt="Papneet's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papneetswain4-alt&layout=compact&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF&border_color=991B1B&hide_border=false" alt="Top Languages" />
 </p>
-
-
-
----
-
-
-## 🕸️ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=papneetswain4-alt&theme=redical"/>
+  <img src="https://streak-stats.demolab.com/?user=papneetswain4-alt&theme=dark&background=0D1117&border=991B1B&stroke=FF3131&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 </p>
 
-<div align="center">
-  
-**Spider Contribution Web**
+---
 
-</div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/contributions.svg" alt="The Contribution Web" />
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/output/github-contribution-grid-snake-dark.svg" height="865">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=papneetswain4-alt&bg_color=0D1117&color=FF3131&line=FF3131&point=FFFFFF&area=true&area_color=991B1B&title_color=FF3131&custom_title=Spider%20Activity%20Graph" width="100%" alt="GitHub Activity Graph" />
 </p>
-
----
-
-## 🚀 Current Learning Journey
-
-- 📚 Data Structures & Algorithms
-- ☕ Advanced Java Concepts
-- 🌐 Frontend + Backend Integration
-- 🗄️ Database & API Handling
-
----
-
-## 🕷️ Featured Projects
-
-👉 Restaurant Ordering System  
-👉 Admin Dashboard UI  
-👉 Authentication System  
-
-*(More coming soon...)*
-
----
-
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SpiderMan-Swinging.png" width="18%" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Spider-Man Contribution Grid Snake" />
 </p>
 
-<h3 align="center">🕷️ Friendly Neighborhood Developer</h3>
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SpiderMan-Swinging.png" width="220" alt="Spider-Man Relaxing in Web" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/footer.svg" alt="Your Friendly Neighborhood Developer" />
+</p>
+
+<p align="center">
+  Building the future, one commit at a time.<br />
+  <em>Stay curious. Keep coding. Never stop swinging.</em>
+</p>
