@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SPIDERMAN-removebg-preview.png" width="100%" alt="Spider-Man Banner" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SPIDERMAN-removebg-preview.png" width="60%" alt="Spider-Man Banner" />
 </p>
 
 <p align="center">
