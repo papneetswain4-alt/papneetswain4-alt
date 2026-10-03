@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/name.svg" alt="PAPNEET SWAIN" />
 </p>
@@ -7,27 +8,33 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/spidy-banner.jpg" width="100%" alt="Spider-Man Banner" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/spidy-banner-cinematic.jpg" width="100%" alt="Spider-Man Banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ON%20THE%20GRIND-0D1117?style=flat-square&labelColor=0D1117&color=DC2626" alt="Status: On The Grind" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/visuals/status-bar.svg" alt="Status: On The Grind | Universe: Spider-Verse" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/UNIVERSE-SPIDER--VERSE-0D1117?style=flat-square&labelColor=0D1117&color=DC2626" alt="Universe: Spider-Verse" />
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=papneetswain4-alt&color=dc2626&style=flat-square&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=papneetswain4-alt&color=dc2626&style=flat-square&labelColor=11151d&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/visuals/web-divider.svg" width="100%" alt="Divider" />
+</p>
+
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/about.svg" alt="About Me" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/about.svg" alt="01 // About Me" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/visuals/terminal-decoration.svg" width="100%" alt="Terminal Header" />
 </p>
 
 ```java
 public class Papneet {
 
-    static String role = "Full Stack Developer in Progress";
+    static String role =
+        "Full Stack Developer in Progress";
 
     static String[] interests = {
         "Java",
@@ -36,7 +43,8 @@ public class Papneet {
         "Problem Solving"
     };
 
-    static String currentFocus = "Building real-world projects";
+    static String currentFocus =
+        "Building real-world projects";
 
     public static void main(String[] args) {
         System.out.println(
@@ -47,15 +55,21 @@ public class Papneet {
 ```
 
 - Computer Science Engineering Student
-- Java enthusiast with a passion for problem-solving
-- Exploring the world of Full Stack Development
-- Building projects that turn ideas into reality
-- Learning, experimenting, breaking things and debugging them
+- Java enthusiast
+- Interested in problem-solving and DSA
+- Exploring Full Stack Development
+- Building real-world applications
+- Learning through experimentation and debugging
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/visuals/web-divider.svg" width="100%" alt="Divider" />
+</p>
+
+
+
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/tech-stack.svg" alt="Tech Stack & Arsenal" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/tech-stack.svg" alt="02 // Tech Stack & Arsenal" />
 </p>
 
 <p align="left">
@@ -82,47 +96,57 @@ public class Papneet {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,vercel&theme=dark" alt="Tools & Platforms" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/visuals/web-divider.svg" width="100%" alt="Divider" />
+</p>
+
+
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/stats.svg" alt="Spider Stats" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/stats.svg" alt="03 // Spider Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=papneetswain4-alt&show_icons=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF&icon_color=FF3131&border_color=991B1B&hide_border=false" alt="Papneet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=papneetswain4-alt&show_icons=true&bg_color=0D1117&title_color=FF3131&text_color=F0F0F0&icon_color=FF3131&border_color=252B36&hide_border=false" alt="Papneet's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papneetswain4-alt&layout=compact&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF&border_color=991B1B&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papneetswain4-alt&layout=compact&bg_color=0D1117&title_color=FF3131&text_color=F0F0F0&border_color=252B36&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=papneetswain4-alt&theme=dark&background=0D1117&border=991B1B&stroke=FF3131&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=papneetswain4-alt&theme=dark&background=0D1117&border=252B36&stroke=FF3131&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=F0F0F0&dates=9CA3AF" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/visuals/web-divider.svg" width="100%" alt="Divider" />
+</p>
+
+
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/contributions.svg" alt="The Contribution Web" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/contributions.svg" alt="04 // The Contribution Web" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=papneetswain4-alt&bg_color=0D1117&color=FF3131&line=FF3131&point=FFFFFF&area=true&area_color=991B1B&title_color=FF3131&custom_title=Spider%20Activity%20Graph" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=papneetswain4-alt&bg_color=0D1117&color=FF3131&line=FF3131&point=F0F0F0&area=true&area_color=991B1B&title_color=FF3131&custom_title=Spider%20Activity%20Graph" width="100%" alt="Spider Activity Graph" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Spider-Man Contribution Grid Snake" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/visuals/web-divider.svg" width="100%" alt="Divider" />
+</p>
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SpiderMan-Swinging.png" width="220" alt="Spider-Man Relaxing in Web" />
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/SpiderMan-Swinging.png" width="180" alt="Spider-Man Relaxing in Web" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/visuals/footer-decoration.svg" alt="Web Filament" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/footer.svg" alt="Your Friendly Neighborhood Developer" />
-</p>
-
-<p align="center">
-  Building the future, one commit at a time.<br />
-  <em>Stay curious. Keep coding. Never stop swinging.</em>
 </p>

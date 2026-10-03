@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 30" width="460" height="30" fill="none" role="img" aria-label="Developer Status Indicators">
+  <!-- Badge 1: STATUS -->
+  <rect x="0.5" y="0.5" width="220" height="29" rx="4" fill="#11151D" stroke="#252B36" stroke-width="1" />
+  <circle cx="16" cy="15" r="3.5" fill="#FF3131" />
+  <text x="28" y="19" fill="#9CA3AF" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5px" font-weight="600" letter-spacing="1px">STATUS:</text>
+  <text x="80" y="19" fill="#F0F0F0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5px" font-weight="700" letter-spacing="1px">ON THE GRIND</text>
+
+  <!-- Badge 2: UNIVERSE -->
+  <rect x="230.5" y="0.5" width="229" height="29" rx="4" fill="#11151D" stroke="#252B36" stroke-width="1" />
+  <polygon points="246,11 250,15 246,19 242,15" fill="#DC2626" />
+  <text x="258" y="19" fill="#9CA3AF" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5px" font-weight="600" letter-spacing="1px">UNIVERSE:</text>
+  <text x="325" y="19" fill="#FF3131" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5px" font-weight="700" letter-spacing="1px">SPIDER-VERSE</text>
+</svg>

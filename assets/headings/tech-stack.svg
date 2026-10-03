@@ -1,13 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 32" width="380" height="32" fill="none" role="img" aria-label="Tech Stack and Arsenal">
-  <text
-    x="0"
-    y="52%"
-    fill="#FF3131"
-    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
-    font-size="22px"
-    font-weight="700"
-    letter-spacing="2.5px"
-    text-anchor="start"
-    dominant-baseline="middle"
-  >TECH STACK &amp; ARSENAL</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 34" width="490" height="34" fill="none" role="img" aria-label="Tech Stack and Arsenal">
+  <text x="0" y="24" fill="#991B1B" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14px" font-weight="700" letter-spacing="2px">02 //</text>
+  <text x="50" y="24" fill="#FF3131" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="21px" font-weight="800" letter-spacing="2.5px">TECH STACK &amp; ARSENAL</text>
+  <line x1="330" y1="18" x2="470" y2="18" stroke="#252B36" stroke-width="1.2" />
+  <polygon points="470,15 476,18 470,21" fill="#DC2626" />
 </svg>

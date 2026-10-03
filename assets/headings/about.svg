@@ -1,13 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 32" width="200" height="32" fill="none" role="img" aria-label="About Me">
-  <text
-    x="0"
-    y="52%"
-    fill="#FF3131"
-    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
-    font-size="22px"
-    font-weight="700"
-    letter-spacing="2.5px"
-    text-anchor="start"
-    dominant-baseline="middle"
-  >ABOUT ME</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 34" width="380" height="34" fill="none" role="img" aria-label="About Me">
+  <text x="0" y="24" fill="#991B1B" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14px" font-weight="700" letter-spacing="2px">01 //</text>
+  <text x="50" y="24" fill="#FF3131" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="21px" font-weight="800" letter-spacing="2.5px">ABOUT ME</text>
+  <line x1="195" y1="18" x2="360" y2="18" stroke="#252B36" stroke-width="1.2" />
+  <polygon points="360,15 366,18 360,21" fill="#DC2626" />
 </svg>
