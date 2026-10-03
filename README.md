@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/visuals/status-bar.svg" alt="Status: On The Grind | Universe: Spider-Verse" />
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=papneetswain4-alt&color=dc2626&style=flat-square&labelColor=11151d&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -26,9 +25,7 @@
   <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/about.svg" alt="01 // About Me" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/visuals/terminal-decoration.svg" width="100%" alt="Terminal Header" />
-</p>
+
 
 ```java
 public class Papneet {
@@ -126,9 +123,6 @@ public class Papneet {
   <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/main/assets/headings/contributions.svg" alt="04 // The Contribution Web" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=papneetswain4-alt&bg_color=0D1117&color=FF3131&line=FF3131&point=F0F0F0&area=true&area_color=991B1B&title_color=FF3131&custom_title=Spider%20Activity%20Graph" width="100%" alt="Spider Activity Graph" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/papneetswain4-alt/papneetswain4-alt/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Spider-Man Contribution Grid Snake" />
